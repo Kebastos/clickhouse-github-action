@@ -13,4 +13,4 @@ jobs:
 
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: Kebastos/clickhouse-github-action@0
+      - uses: Kebastos/clickhouse-github-action@0.0.1
